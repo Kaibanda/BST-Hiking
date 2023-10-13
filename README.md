@@ -1,7 +1,7 @@
 # BST-Mountain-Traversal
 
 
-## Problem 1 (10 points)
+## Program Functionality
 
 This project is an implementation of a binary search tree. The elements are ordered using
 their natural ordering.
