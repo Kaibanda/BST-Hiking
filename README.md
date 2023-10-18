@@ -23,9 +23,6 @@ Feel free to reach out for further discussions or demonstrations. Thank you for 
 
 Best Regards,
 
-[Your Full Name]
-[Your Email Address]
-[Your Phone Number]
-[LinkedIn Profile (optional)]
-
-Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ChatGPT September 25 Version
+Kai Banda
+Sagwadibanda@gmail.com
+2027655003
