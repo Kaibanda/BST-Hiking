@@ -1,4 +1,4 @@
-# Project Title: BST-Hiking: Advancing Binary Search Tree Optimization
+# BST-Hiking: Advancing Binary Search Tree Optimization
 
 ## Project Overview
 
