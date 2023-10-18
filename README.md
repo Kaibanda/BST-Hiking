@@ -24,5 +24,5 @@ Feel free to reach out for further discussions or demonstrations. Thank you for 
 Best Regards,
 
 Kai Banda,
-Sagwadibanda@gmail.com,
+ksb8403@nyu.edu,
 2027655003
